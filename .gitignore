@@ -1,0 +1,12 @@
+/bootstrap/compiled.php
+/vendor
+composer.phar
+composer.lock
+.DS_Store
+artisan
+.comopser.json~
+server.php
+CONTRIBUTING.md
+kplus.sublime-project
+kplus.sublime-workspace
+.gitattributes
